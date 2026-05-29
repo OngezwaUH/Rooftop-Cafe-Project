@@ -6,3 +6,6 @@ I made a few changes to the website to improve my part 2 from part 1, I added ot
 <img width="1960" height="3686" alt="Tablet Screenshot" src="https://github.com/user-attachments/assets/bab0b2f3-1c37-46f6-9177-192c7058b37d" />
 <img width="1960" height="1960" alt="Mobile Screenshot" src="https://github.com/user-attachments/assets/b82d5152-dbfd-450a-8eb1-edee454a8e7d" />
 
+Bing Images. n.d. Untitled rooftop café image [online image]. Available at: https://tse2.mm.bing.net/th/id/OIP.v5FlI0jpaH9Qs13FiXwo5AHaLG?r=0&rs=1&pid=ImgDetMain&o=7&rm=3 [Accessed 29 May 2026].
+OpenAI, 2026. Rooftop café gallery images generated using AI [AI-generated images]. Available at: https://chat.openai.com/ [Accessed 29 May 2026].
+
